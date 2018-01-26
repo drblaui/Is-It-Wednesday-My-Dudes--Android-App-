@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Is it Wednesday my Dudes?</string>
+    <string name="caption">  Is it Wednesday my Dude?</string>
+    <string name="wednesday">It is Wednesday my Dude!</string>
+    <string name="notWednesday">It is not Wednesday my Dude!\n But it is dab day everyday!</string>
+    <string name="image_or_nah">Image or Nah</string>
+</resources>
